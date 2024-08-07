@@ -1,0 +1,10 @@
+# ninja log v6
+34	66	1722990904548668215	InformationScience	34481f75f1894ad2
+2	34	1722990904515779603	CMakeFiles/InformationScience.dir/main.c.o	821f3aed7ed78406
+2	43	1722991083314904085	build.ninja	6bb49d50ba01d2c6
+0	39	1722991083321612226	CMakeFiles/InformationScience.dir/week1.c.o	b4d7a78f7e1f4d82
+39	71	1722991083360536597	InformationScience	af765d08e3f35d96
+0	37	1722991092354849536	CMakeFiles/InformationScience.dir/week1.c.o	b4d7a78f7e1f4d82
+37	71	1722991092392117310	InformationScience	af765d08e3f35d96
+1	21	1722991258987068233	CMakeFiles/InformationScience.dir/week1.c.o	b4d7a78f7e1f4d82
+21	56	1722991259007220445	InformationScience	af765d08e3f35d96

@@ -1,0 +1,3 @@
+/Users/sw8744/Desktop/ishs/InformationScience/cmake-build-debug/CMakeFiles/InformationScience.dir
+/Users/sw8744/Desktop/ishs/InformationScience/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/sw8744/Desktop/ishs/InformationScience/cmake-build-debug/CMakeFiles/rebuild_cache.dir
