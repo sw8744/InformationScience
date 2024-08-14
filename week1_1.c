@@ -1,3 +1,4 @@
+// Hello, World! 출력
 #include <stdio.h>
 
 int main(void) {
