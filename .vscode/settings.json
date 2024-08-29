@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "6_standardinputoutput": "c"
+        "6_standardinputoutput": "c",
+        "stdio.h": "c"
     }
 }
